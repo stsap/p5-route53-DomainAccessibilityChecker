@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 use LWP::UserAgent;
-use lib qw|p5-AWS-Route53-Simple/lib|;
+use lib qw|lib|;
 use AWS::Route53::Simple;
 use Data::Dumper;
 
